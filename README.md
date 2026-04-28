@@ -26,6 +26,7 @@ classification results:
 | AGN | 45,633 | 14.2% |
 
 AGN fraction of full catalog: 14.23% of 927,552 galaxies
+
 <img src="bpt_diagram.png" alt="BPT Diagram" width="300"/>
 
 Stellar mass by classification (log M*/Msun):
@@ -36,6 +37,7 @@ Stellar mass by classification (log M*/Msun):
 | AGN | 10.89 | 10.86 | 0.33 |
 
 AGN are systematically more massive with median log M*/Msun = 10.89
+
 <img src="stellar_mass.png" alt="Stellar Mass by Classification" width="300"/>
 
 [OIII] luminosity by classification (log erg/s):
@@ -46,6 +48,7 @@ AGN are systematically more massive with median log M*/Msun = 10.89
 | AGN | 39.84 | 39.96 | 0.64 |
 
 AGN show higher [OIII] luminosities with a tail extending past 42 log(L) erg*s<sup>-1</sup>
+
 <img src="oiii_luminosity.png" alt="[OIII] Luminosity by Classification" width="300"/>
 
 ## References
