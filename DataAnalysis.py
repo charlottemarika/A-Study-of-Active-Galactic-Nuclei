@@ -124,8 +124,8 @@ x = g_allclean["log_nii_halpha"]
 y = g_allclean["log_oiii_hbeta"]
 
 #kewley for upper limit, kauffman for lower
-is_starforming  = y < kauffman(x)
-is_agn          = y > kewley(x)
+is_starforming  = (x<0.05) & (y < kauffman(x))
+is_agn          = (x>=0.47) | (y > kewley(x))
 is_questionable = (~is_starforming) & (~is_agn)
 
 classification = np.full(len(g_allclean), "questionable", dtype=object)
