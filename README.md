@@ -26,7 +26,7 @@ classification results:
 | AGN | 45,633 | 14.2% |
 
 AGN fraction of full catalog: 14.23% of 927,552 galaxies
-
+ 
 <img src="bpt_diagram.png" alt="BPT Diagram" width="300"/>
 
 Stellar mass by classification (log M*/Msun):
