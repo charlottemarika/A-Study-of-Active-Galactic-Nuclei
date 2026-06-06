@@ -3,7 +3,7 @@
 ## Overview
 This project studies the characteristics of active galactic nuclei (AGN) using the SDSS DR7 MPA/JHU catalogs.
 Galaxies are classified using BPT diagrams and host galaxy properties (stellar masses, OIII luminosity) are compared across classification.
-Full paper available [here](astudyofagnfinaldraft.pdf)
+Full paper available [here](astudyofagnfinaldraft.pdf).
 
 ## Data
 - **Source:** SDS SDR7 MPA/JHU value added catalogs of 927,552 galaxies
